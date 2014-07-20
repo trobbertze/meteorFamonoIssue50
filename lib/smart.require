@@ -1,0 +1,17 @@
+{
+	"famous": {
+		"git": "https://github.com/Famous/famous.git"
+	},
+	"famous.views": {
+		"git": "https://github.com/Famous/views.git"
+	},
+	"famous.surfaces": {
+		"git": "https://github.com/Famous/surfaces.git"
+	},
+	"famous.polyfills": {
+		"git": "https://github.com/Famous/polyfills.git"
+	},
+	"library": {
+		"git": "https://github.com/raix/library.git"
+	}
+}
