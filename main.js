@@ -21,7 +21,7 @@ if (Meteor.isClient) {
     });
 
     var scrollView = new famous.views.Scrollview();
-    scrollView.addItem(surface);
+    scrollView.sequenceFrom([surface]);
 
     lightbox.show(scrollView);
 });
